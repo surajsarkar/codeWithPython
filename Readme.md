@@ -2,7 +2,7 @@
 
 <img src="./assets/python_fundamental.gif"/>
 
-| Chapter | Status | Link | Medium
+| Chapter | Status | Url | Medium Url
 |-----|-----|-----|-----|
 | Introduction | <span style="background-color:green;border-radius:4px;padding:2px;font-size:16px">To Start</span> |
 | Variable, data types, and operators | <span style="background-color:green;border-radius:4px;padding:2px;font-size:16px">To Start</span> |
