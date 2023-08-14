@@ -1,8 +1,8 @@
 # C1 Introduction
 <hr>
 
-**Chapter Outline**
-||
+
+|**Chapter Outline**|
 |---|
 |What is python |
 |What is Interpreted Language|
