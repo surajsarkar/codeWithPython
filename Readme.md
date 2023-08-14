@@ -1,4 +1,4 @@
-# 👩🏻‍💻👩🏻‍💻 Introduction to <span style="color:orange;font-weight:bold;font-size:50">Python</span>🧑🏻‍💻🧑🏻‍💻
+# 👩🏻‍💻👩🏻‍💻 <span style="color:orange;font-weight:bold;font-size:50">Python</span> from scratch 🧑🏻‍💻🧑🏻‍💻
 
 <img src="./assets/python_fundamental.gif"/>
 
