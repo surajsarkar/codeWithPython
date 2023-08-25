@@ -26,7 +26,7 @@ examples of interperated language:
 * Lua
 * Matlab
 
-<img src="/assets/interperated_lang_animation.gif" alt="interperated lang animation"/>
+<img src="/assets/interperated_code.gif" alt="interperated lang animation"/>
 <hr>
 
 `good to know 👇🏻`
