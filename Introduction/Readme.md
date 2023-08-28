@@ -39,3 +39,7 @@ examples of compiled languages:
 * Rust
 * Kotlin
 * etc
+
+<img src="/assets/compiled_code.gif" alt="compiled code animation"/>
+
+<hr>
